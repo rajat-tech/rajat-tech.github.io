@@ -31,11 +31,11 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: https://www.facebook.com/rajat.sadh.75
+  facebook: rajat.sadh.75
   # hackerrank: your_username
-#   instagram: rajatsadh24
+  instagram: rajatsadh24
   # keybase: your_username
-  linkedin: https://www.linkedin.com/in/rs2402
+  linkedin: rs2402
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,14 +47,14 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: 
+  - name: Python Programming 
     web_url: https://github.com/topics/python
     image_url: http://www.trytoprogram.com/images/python_logo.png
 
-  - name: Web design
+  - name: Machine Learning
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
 
 theme: jekyll-theme-slate
